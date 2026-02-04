@@ -11,12 +11,13 @@ We believe that Cardano’s strength lies in its decentralization; therefore, I 
 As a registered DRep (**ID: drep1yg046arfltalnxtearmvv8hhuzphqcudlfaywzm852fmycc92qyve**), VSPBM follows these core principles:
 - **Technical Verification:** I do not vote "Yes" on Hard Forks or Protocol Parameter changes until they have been successfully stress-tested on my `babymetal-node` Preprod environment.
 - **Treasury Responsibility:** I advocate for funding core infrastructure and developer tooling over short-term marketing initiatives.
-- **Small-SPO Alignment:** I support parameters that maintain a level playing field for single-pool operators, especially those, like me, who are extremely small.
+- **Small-SPO Alignment:** I support parameters that maintain a level playing field for single-pool operators, especially those, like me, who are extremely small. That's why I'm a member of xSPO, repo link and instructions [here](https://github.com/xSPO-Alliance/adapools-xspo-alliance)
 
 ## ⚙️ Technical Stack
 - **Infrastructure:** My relay is a very old desktop PC that I built myself with spare parts. The Block Producer is a miniPC.
 <!-- - **Monitoring:** Custom Python/Bash watchdogs for real-time Governance Action alerts. -->
 - **Network:** Active on **Preprod** (Test-net) and preparing for **Mainnet Migration** during mid-February.
+- **Mithril** My infrastructure also supports and in one epoch's time will be a Mithril verifier.
 
 ## 📂 Repository Contents
 - `metadata.json`: The on-chain anchor data for our DRep identity.
