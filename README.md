@@ -29,8 +29,8 @@ Babymetal is the name of my MiniPC. It is also the name of a very cool Japanese 
 ---
 
 ## 🔗 Links & Verification
-- **DRep ID:** [Link to your DRep profile on Gov.tools]
-- **Pool ID:** [Your Pool ID here]
-- **Metadata Anchor:** [Link to your Raw metadata.json in this repo]
+- **DRep ID:** [Here's the page on CardanoScan](https://preprod.cardanoscan.io/drep/drep1yg046arfltalnxtearmvv8hhuzphqcudlfaywzm852fmycc92qyve)
+- **Pool ID:** c765117253ce26b8465be3b8b48fadf91d795d2b177ee8502e5dec47 [Here's our page on CardanoScan](https://preprod.cardanoscan.io/pool/pool1caj3zujnecnts3jmuwutfradlywhjhftzalws5pwthkyw5ugzks?tab=metadata)
+- **Metadata Anchor:** [Here's out Metadata Anchor](https://tinyurl.com/drepjsonld)
 
 > *"Decentralization isn't just a goal; it's a practice."*
