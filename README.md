@@ -8,7 +8,7 @@ My mission is to safeguard the Cardano network as much as I can by providing hig
 We believe that Cardano’s strength lies in its decentralization; therefore, I operate entirely on **Bare Metal infrastructure**, avoiding the risks associated with centralized cloud providers.
 
 ## 🏛️ Governance Philosophy (DRep)
-As a registered DRep (**ID: drep1rawh...**), VSPBM follows these core principles:
+As a registered DRep (**ID: drep1yg046arfltalnxtearmvv8hhuzphqcudlfaywzm852fmycc92qyve**), VSPBM follows these core principles:
 - **Technical Verification:** I do not vote "Yes" on Hard Forks or Protocol Parameter changes until they have been successfully stress-tested on my `babymetal-node` Preprod environment.
 - **Treasury Responsibility:** I advocate for funding core infrastructure and developer tooling over short-term marketing initiatives.
 - **Small-SPO Alignment:** I support parameters that maintain a level playing field for single-pool operators, especially those, like me, who are extremely small.
