@@ -15,14 +15,12 @@ As a registered DRep (**ID: drep1yg046arfltalnxtearmvv8hhuzphqcudlfaywzm852fmycc
 
 ## ⚙️ Technical Stack
 - **Infrastructure:** My relay is a very old desktop PC that I built myself with spare parts. The Block Producer is a miniPC.
-#- **Monitoring:** Custom Python/Bash watchdogs for real-time Governance Action alerts.#
+<!-- - **Monitoring:** Custom Python/Bash watchdogs for real-time Governance Action alerts. -->
 - **Network:** Active on **Preprod** (Test-net) and preparing for **Mainnet Migration** during mid-February.
 
 ## 📂 Repository Contents
 - `metadata.json`: The on-chain anchor data for our DRep identity.
-#- `watch_gov.sh`: Our custom script for monitoring the ledger state for new proposals.#
-- `scripts/`: Various CLI helpers for transaction building and signing.
-
+<!-- - `watch_gov.sh`: Our custom script for monitoring the ledger state for new proposals. -->
 ## Why Babymetal?
 Babymetal is the name of my MiniPC. It is also the name of a very cool Japanese metal band.
 
